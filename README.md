@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis
+# Sales-Analysis-and-Insights-Dashboard- (Pizza Sales Analysis)
 Exploring sales trends and product performance using MySQL and Power BI 
 
 # 🍕 Pizza Sales Analysis
